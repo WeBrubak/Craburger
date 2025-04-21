@@ -137,5 +137,18 @@ a:active {
   min-width: 329px;
 }
 
+footer {
+      background-color: #f8d7da; /* light red */
+      color: #721c24; /* darker red for contrast */
+      padding: 40px;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      width: auto;
+      height: auto;
+      flex: 1;
+      grid-column-start: 1;
+      grid-column-end: 4;
+       font-size: 2vw;
 
+    }
 
